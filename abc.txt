@@ -1,2 +1,4 @@
 testing
-checking new
+checking new<<<<<<< HEAD
+=======
+>>>>>>> a45fcbece0c6cac71315f899746880b7077f1cac
